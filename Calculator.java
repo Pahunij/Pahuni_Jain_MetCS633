@@ -17,5 +17,6 @@ public class Calculator {
         System.out.println("Subtraction of -15 and 15 is : " + add(-15, 15));
         System.out.println("Subtraction of -15 and -15 is : " + add(-15, -15));
         System.out.println("Subtraction of -15 and 30 is : " + add(-15, 30));
+        System.out.println("Subtraction of -60 and 30 is : " + add(-60, 30));
     }
 }
